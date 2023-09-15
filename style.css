@@ -1,0 +1,36 @@
+
+
+body {
+text-align: center;
+ background-color: black;
+}
+
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+}
+
+h3{
+  color: white;
+  text-align: center;
+}
+
+p {
+  color: white;
+}
+
+h4 {
+  color: red;
+ text-align: center;
+}
+
+h5 {
+  color: red;
+ text-align: center;
+}
